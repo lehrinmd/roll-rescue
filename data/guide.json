@@ -1,0 +1,64 @@
+{
+  "title": "What to do next",
+  "notice": "Check the latest rules on the official Election Commission or your state CEO website.",
+  "steps": [
+    {
+      "title": "Check your name",
+      "text": "Search electoralsearch.eci.gov.in, use the Voter Helpline App, or call 1950.",
+      "source": "https://electoralsearch.eci.gov.in",
+      "last_checked": "21 Nov 2026"
+    },
+    {
+      "title": "Apply with Form 6 if your name is missing",
+      "text": "Apply online at voters.eci.gov.in or in the Voter Helpline App.",
+      "source": "https://voters.eci.gov.in",
+      "last_checked": "21 Nov 2026"
+    },
+    {
+      "title": "Apply offline",
+      "text": "Collect Form 6 from your BLO or the Electoral Registration Officer (ERO/AERO) office.",
+      "source": "https://voters.eci.gov.in",
+      "last_checked": "21 Nov 2026"
+    },
+    {
+      "title": "Check which documents are needed",
+      "text": "When applying online, upload supporting documents with Form 6. The documents depend on your case, so confirm with your BLO or the official site.",
+      "source": "https://voters.eci.gov.in",
+      "last_checked": "21 Nov 2026"
+    },
+    {
+      "title": "Track your application",
+      "text": "Save your reference number after you submit. Track your application at voters.eci.gov.in or in the Voter Helpline App. Applying is free.",
+      "source": "https://voters.eci.gov.in",
+      "last_checked": "21 Nov 2026"
+    },
+    {
+      "title": "Related forms",
+      "text": "Form 7 is used to object to or ask for deletion of an entry, such as a multiple entry. Form 8 is for corrections and change of residence. Ask your BLO which form fits your case.",
+      "source": "https://voters.eci.gov.in",
+      "last_checked": "21 Nov 2026"
+    },
+    {
+      "title": "Accessibility support",
+      "text": "People with disabilities can use the Saksham app from the Election Commission.",
+      "source": "https://voters.eci.gov.in",
+      "last_checked": "21 Nov 2026"
+    }
+  ],
+  "documents": [
+    {
+      "text": "When applying online, upload supporting documents with Form 6. The documents depend on your case, so confirm with your BLO or the official site.",
+      "verification": "NEEDS VERIFICATION",
+      "source": "https://voters.eci.gov.in",
+      "last_checked": "21 Nov 2026"
+    }
+  ],
+  "deadlines": [
+    {
+      "text": "Check the deadline on your state CEO website.",
+      "verification": "NEEDS VERIFICATION",
+      "source": "https://voters.eci.gov.in",
+      "last_checked": "21 Nov 2026"
+    }
+  ]
+}
